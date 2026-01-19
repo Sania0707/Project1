@@ -1,0 +1,139 @@
+1. Employee Salary & Performance Dashboard
+
+https://github.com/Sania0707/Project1.git
+
+Tools: Excel, Python (Pandas), SQL, Power BI
+
+Designed an end-to-end analytics solution to analyze employee performance and salary distribution.
+
+Cleaned and structured 200+ employee records using Excel Power Query and Pandas for analysis.
+
+Imported processed data into SQL, performed aggregation and trend queries.
+
+Built an interactive Power BI dashboard showcasing KPIs such as salary vs. performance score, department-wise averages, and top performers.
+
+Implemented DAX measures for performance rating insights and trend visualization.
+
+Key Outcome: Improved visibility of performance-based pay structure and departmental efficiency.
+
+2. Healthcare Analytics Dashboard
+
+Tools: Excel, Python (Pandas), SQL, Power BI
+
+Processed and analyzed healthcare data to measure patient satisfaction, treatment costs, and doctor performance.
+
+Cleaned raw datasets using Excel and Pandas, handled missing values and standardized records.
+
+Created structured tables and relationships in SQL for querying and analysis.
+
+Developed a Power BI dashboard showing KPIs like patient outcomes, treatment success rate, and cost per case.
+
+Used ETL workflow (Excel → Pandas → SQL → Power BI) to maintain a seamless data pipeline.
+
+Key Outcome: Helped identify key drivers of patient satisfaction and operational performance trends.
+
+3. Retail Sales Dashboard
+
+Tools: Excel, Python (Pandas), SQL, Power BI
+
+Here’s a list of **powerful keywords** and **action verbs** you can use in your **Data Science / Data Analyst resume** — these help your resume stand out to recruiters **and** Applicant Tracking Systems (ATS).
+
+---
+
+### 🔹 **Technical Skills Keywords**
+
+*(Use in your Skills or Tools section)*
+
+* **Programming Languages:** Python, R, SQL, Java, C++, MATLAB
+* **Data Analysis Tools:** Excel, Power BI, Tableau, Google Data Studio, SPSS
+* **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
+* **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Keras
+* **Machine Learning:** Regression, Classification, Clustering, Random Forest, Decision Trees, SVM, Neural Networks
+* **Data Cleaning & Preparation:** Data Wrangling, Data Transformation, Data Normalization, Feature Engineering
+* **Big Data & Cloud:** Hadoop, Spark, AWS, Azure, Google Cloud Platform
+* **Statistics & Mathematics:** Hypothesis Testing, A/B Testing, Correlation, Linear Regression, Probability
+* **Other Tools:** Jupyter Notebook, VS Code, GitHub, Excel Power Query, DAX
+
+---
+
+### 🔹 **Action Verbs / Resume Power Words**
+
+*(Use at the start of bullet points)*
+
+* Analyzed
+* Interpreted
+* Designed
+* Developed
+* Automated
+* Visualized
+* Built
+* Optimized
+* Modeled
+* Predicted
+* Evaluated
+* Cleaned
+* Implemented
+* Extracted
+* Validated
+* Processed
+* Collaborated
+* Presented
+* Improved
+* Enhanced
+
+---
+
+### 🔹 **Project & Impact Keywords**
+
+*(Show your work results using these)*
+
+* “Improved model accuracy by ___%”
+* “Reduced data processing time by ___%”
+* “Increased reporting efficiency by ___%”
+* “Developed dashboard to track ___”
+* “Automated repetitive tasks using Python scripts”
+* “Extracted insights from large datasets to support business decisions”
+* “Visualized key performance metrics for management review”
+
+---
+
+### 🔹 **Soft Skill Keywords**
+
+*(Good for Summary or Profile section)*
+
+* Problem-solving
+* Analytical thinking
+* Attention to detail
+* Critical thinking
+* Collaboration
+* Communication skills
+* Data-driven decision-making
+* Business acumen
+* Time management
+* Continuous learning
+
+---
+
+Would you like me to **tailor this keyword list** for your **resume summary, projects, and skills section** (for example, based on your BBA(CA) background and data analyst projects)?
+That way, I can give you a version ready to paste directly into your resume.
+
+
+
+
+Data Quality Analyst – EXL | July 2024 – Present
+
+Analyzed web application data and performance metrics to ensure accuracy, consistency, and functionality across systems.
+Designed and executed validation test cases to assess data integrity and user interface responsiveness.
+Documented and tracked data issues and anomalies using tracking tools (FogBugz / BrowserStack) for process improvement.
+Collaborated with cross-functional teams to investigate root causes, resolve defects, and enhance data reliability and user experience.
+Provided detailed reports and visual summaries of defect patterns to support decision-making and system optimization.
+
+
+
+CERTIFICATIONS
+• Pursuing Data Science Certification – Fusion Institute (Covers Python, Machine Learning, SQL, Statistics, Data Visualization)
+• IBM Data Science Internship Certificate (Online)
+
+.EDUCATION
+Bachelor of Business Administration (Computer Applications)
+St. Mira’s College, Pune — Year of Completion: 2024
